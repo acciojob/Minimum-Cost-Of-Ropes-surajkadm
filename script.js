@@ -1,6 +1,7 @@
 function calculateMinCost() {
-  //your code here
-  
+
+	var inputData=document.queryselector("input").value;
+	alert(inputData);
   
   
 }  
